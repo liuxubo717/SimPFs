@@ -1,1 +1,1 @@
-
+Simple Pooling Front-ends (SimPFs) for Efficient Audio Classification
